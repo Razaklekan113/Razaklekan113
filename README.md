@@ -1,3 +1,5 @@
+# 💥💥💫💫💫🧡❤😎😎RAZAK LEKAN😎😎💖💖💫💫💨
+# ✨💢💢💫🕳😎😎A BACKEND DEVELOPER😎😎🎆🎆🎇🎇
 <h1 align="center">Hi 👋, I'm Razak Lekan</h1>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 
