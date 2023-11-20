@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on being a Backend Developer<br>👯 I’m looking to collaborate on a software projects<br>🤝 I’m looking for help with an open source projects<br>🌱 I’m currently learning backend development<br>💬 Ask me about software and technologies<br>⚡ Fun fact - I am very funny but intelligent when it comes to tech space
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
+🔭 I’m currently working on being a Backend Developer<br>👯 I’m looking to collaborate on a software projects<br>🤝 I’m looking for help with an open source projects<br>🌱 I’m currently learning backend development<br>💬 Ask me about software and technologies<br>⚡ Fun fact - I am very funny but intelligent when it comes to tech space 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/og.razaking) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/razak-afuwape) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RazakLekan113) 
